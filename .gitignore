@@ -1,0 +1,13 @@
+# ignore all files in the rcode/ directory
+rcode/
+[Tt]emp/
+
+# ignore all files in the settings directory
+.settings/
+
+#ignore Eclipse files
+*.launch
+*.dbconnection
+*.project
+*.propath
+toolbox.xml
