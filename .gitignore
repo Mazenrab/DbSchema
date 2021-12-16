@@ -8,6 +8,4 @@ rcode/
 #ignore Eclipse files
 *.launch
 *.dbconnection
-*.project
-*.propath
 toolbox.xml
